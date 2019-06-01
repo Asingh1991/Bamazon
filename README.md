@@ -25,5 +25,30 @@ If store has enough of the product, the customer's order should be fulfilled.
    
    ![](assets/total.PNG)
    
+#2: Manager View
+
+Running this application will: List a set of menu options:
+
+    * View Products for Sale
+    
+    * View Low Inventory
+    
+    * Add to Inventory
+    
+    * Add New Product
+    
+![](assets/managerOptions.PNG)
+
+If a manager selects `View Products for Sale`, the app should list every available item
+
+![](assets/sale.PNG)
+
+If a manager selects `View Low Inventory`, then it should list all items with an inventory count lower than five.
+    
+![](assets/lowInventor.PNG)
+
+
+
+
 
    
