@@ -19,3 +19,11 @@ Once the customer has placed the order,application checks if store has enough of
    
    ![](assets/prevent.PNG)
    
+If store has enough of the product, the customer's order should be fulfilled.
+   * This means updating the SQL database to reflect the remaining quantity.
+   * Once the update goes through, show the customer the total cost of their purchase.
+   
+   ![](assets/total.PNG)
+   
+
+   
