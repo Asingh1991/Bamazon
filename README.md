@@ -4,4 +4,4 @@ This is an Amazon-like storefront which takes in orders from customers and deple
 
 1. Running this application will first display all of the items available for sale. Include the ids, names, and prices of products for sale.
 
-![](assets/allProducts.png)
+![](assets/allProducts.PNG)
