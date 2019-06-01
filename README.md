@@ -49,7 +49,7 @@ If a manager selects `View Low Inventory`, then it should list all items with an
 
 If a manager selects `Add to Inventory`, app displays a prompt that will let the manager "add more" of any item currently in the store.
 
-![](assets/addInventory.PNG)
+![](assets/addInventroy.PNG)
 
 ![](assets/updatedInventory.PNG)
 
