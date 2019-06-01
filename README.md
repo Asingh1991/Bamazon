@@ -53,6 +53,7 @@ If a manager selects `Add to Inventory`, app displays a prompt that will let the
 
 ![](assets/updatedInventory.PNG)
 
-
-
+ If a manager selects `Add New Product`, it allows the manager to add a completely new product to the store.
+ 
+ ![](assets/newProduct.PNG)
    
